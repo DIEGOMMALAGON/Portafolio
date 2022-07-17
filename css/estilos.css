@@ -1,0 +1,36 @@
+*{box-sizing: border-box;}
+body{
+    margin: auto;
+    background-color: #ACABAB;
+}
+.barra{
+    display: flex;
+    align-items: center; 
+    
+}
+.iconos{
+    margin-left: 20vh;
+    margin-top: 2vh;
+}
+.fotos{
+    margin: 1vh;
+
+}
+.fotos2{
+    margin: 1vh;
+    margin-top: 2vh;
+}
+.perfil{
+    margin-top: 2vh;
+}
+.perfil2{
+    margin-top: 2vh;
+}
+footer{
+    background-color: #969696;
+    padding: 3vh;
+    margin-top: 2vh;
+}
+P1{
+    color: aliceblue;
+}
